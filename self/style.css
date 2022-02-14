@@ -1,0 +1,54 @@
+*{
+    background-color: rgb(80, 236, 241);
+    margin:0px;
+    padding: 0px;
+}
+.dev{
+    margin: 144 auto;
+    display: flex;
+    justify-content: space-around ;
+}
+.container{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    flex-direction: column;
+}
+.head{
+    font-size: 100px;
+    font-style: italic ;
+    font-weight: bold ;
+    color: blue;
+    justify-content: center;
+}
+.int0{
+    font-size: 60px;
+    font-style: normal;
+    justify-content: center;
+}
+.tt{
+    font-size: 40px;
+    font-style: normal;
+    justify-content: center;
+}
+
+.img{
+    float: right;
+    align-content: flex-start;
+    height: 70vh;
+}
+fieldset{
+    margin: 35px;
+    padding: 10px;
+}
+legend{
+    font-size: 40px;
+    font-style: oblique;
+}
+p{
+   /* float :right;*/
+    font-size: 25px;
+    word-spacing: 5px;
+    
+}
